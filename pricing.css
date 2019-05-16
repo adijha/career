@@ -1,0 +1,35 @@
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+.txt{
+  display: blcok;
+  font-family: montserrat, sans-serif !important;
+  /* font-size:  100px; */
+  font-weight: bolder;
+  background: linear-gradient(90deg, black, white 20%);
+  background-size: 600% 600%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}
+        
+a{
+  text-decoration: none !important;
+}
