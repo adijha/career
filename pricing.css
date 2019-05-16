@@ -33,3 +33,7 @@ html {
 a{
   text-decoration: none !important;
 }
+
+footer{
+  background: #9a9a9a;
+}
